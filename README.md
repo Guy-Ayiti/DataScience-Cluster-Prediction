@@ -17,7 +17,7 @@
 
 ###
 
-<h2 align="left">Programming Languages and Development Environments I have used:</h2>
+<h2 align="left">Programming Languages and Development Environments used:</h2>
 
 ###
 
